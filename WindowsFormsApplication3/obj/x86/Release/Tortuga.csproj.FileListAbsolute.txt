@@ -1,0 +1,12 @@
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\Interop.WMPLib.dll
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\AxInterop.WMPLib.dll
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\Tortuga.csproj.ResolveComReference.cache
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Interop.WMPLib.dll
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\AxInterop.WMPLib.dll
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Tortuga.resources
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Properties.Resources.resources
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\Tortuga.csproj.GenerateResource.Cache
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.exe
+Q:\Workspace\Visual Studio\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.pdb
