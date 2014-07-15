@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tortuga", "WindowsFormsApplication3\Tortuga.csproj", "{AF961E49-4549-4512-8457-723D462A1CF9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tortuga_Setup", "Setup1\Setup1.vdproj", "{491A44D8-32C5-40F2-970E-FA37FFD1083E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF961E49-4549-4512-8457-723D462A1CF9}.Debug|x86.ActiveCfg = Debug|x86
+		{AF961E49-4549-4512-8457-723D462A1CF9}.Debug|x86.Build.0 = Debug|x86
+		{AF961E49-4549-4512-8457-723D462A1CF9}.Release|x86.ActiveCfg = Release|x86
+		{AF961E49-4549-4512-8457-723D462A1CF9}.Release|x86.Build.0 = Release|x86
+		{491A44D8-32C5-40F2-970E-FA37FFD1083E}.Debug|x86.ActiveCfg = Release
+		{491A44D8-32C5-40F2-970E-FA37FFD1083E}.Debug|x86.Build.0 = Release
+		{491A44D8-32C5-40F2-970E-FA37FFD1083E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
